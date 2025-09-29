@@ -1,0 +1,14 @@
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\controller\AddressController.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\controller\ContactController.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\dto\AddressRequest.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\dto\AddressResponse.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\dto\ContactMapper.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\dto\ContactRequest.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\dto\ContactResponse.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\exception\GlobalExceptionHandler.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\exception\ResourceNotFoundException.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\Exercicio1Application.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\model\Address.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\model\Contact.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\repository\AddressRepository.java
+C:\Users\carol\Downloads\Exercicio1\src\main\java\com\example\Exercicio1\repository\ContactRepository.java
